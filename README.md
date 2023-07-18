@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Secondo_is_nub)
 
 
 - :trollface: CS undergrad at East West University 
