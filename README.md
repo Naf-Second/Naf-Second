@@ -9,4 +9,3 @@
 - 💬 Ask me about nothing, isn't worthy of preaching yet
 - ⚡ Fun fact: Comic books are the coolest among books in my opinion!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naf-Second)](https://github.com/anuraghazra/github-readme-stats)
-  (https://github-readme-stats.vercel.app/api?username=Naf-Second)](https://github.com/anuraghazra/github-readme-stats)
