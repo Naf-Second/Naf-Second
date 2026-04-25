@@ -19,9 +19,9 @@
 
 ### Frameworks and main libraries :
 
-| Selenium | Numpy | Pandas | Sklearn | Django | SAP
-|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="55" height="55"/>| <img src = "[https://logowik.com/sap-vector-logo-151.html](https://logowik.com/content/uploads/images/467_sap.jpg)" title="SAP" />
+| Selenium | Numpy | Pandas | Sklearn | Django | SAP |
+|----------|--------|--------|---------|--------|-----|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="55" height="55"/> | <img src="https://github.com/Naf-Second/Codeforces-Journey-using-CPP/blob/main/SAP_2011_logo.svg" title="SAP" alt="SAP" width="55" height="55"/> |
 
 
 
